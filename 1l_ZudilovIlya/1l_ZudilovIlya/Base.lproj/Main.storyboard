@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="_l_ZudilovIlya" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="7" translatesAutoresizingMaskIntoConstraints="NO" id="Ppr-H5-0fw">
+                                <rect key="frame" x="30" y="272.5" width="354" height="361"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="вк.png" translatesAutoresizingMaskIntoConstraints="NO" id="iHF-0D-FgT">
+                                        <rect key="frame" x="0.0" y="0.0" width="354" height="58"/>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="   " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lxB-rd-tQf">
+                                        <rect key="frame" x="0.0" y="65" width="354" height="14.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                        <size key="shadowOffset" width="0.0" height="0.0"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Введите e-mail или номер телефона :" textAlignment="natural" lineBreakMode="clip" numberOfLines="5" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wzE-BM-5yn">
+                                        <rect key="frame" x="0.0" y="86.5" width="354" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" systemColor="systemBackgroundColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" clearsOnBeginEditing="YES" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="rwX-xQ-3Vg">
+                                        <rect key="frame" x="0.0" y="114" width="354" height="34"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" textContentType="username"/>
+                                    </textField>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Введите пароль:" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TSp-oX-u0y">
+                                        <rect key="frame" x="0.0" y="155" width="354" height="20.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                        <color key="textColor" systemColor="systemBackgroundColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" clearsOnBeginEditing="YES" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ChV-HD-Djd">
+                                        <rect key="frame" x="0.0" y="182.5" width="354" height="34"/>
+                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                        <textInputTraits key="textInputTraits" secureTextEntry="YES" textContentType="password"/>
+                                    </textField>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="   " textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jmb-ig-yI0">
+                                        <rect key="frame" x="0.0" y="223.5" width="354" height="14.5"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                        <size key="shadowOffset" width="0.0" height="0.0"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xN6-T4-5ow">
+                                        <rect key="frame" x="0.0" y="245" width="354" height="34"/>
+                                        <color key="backgroundColor" red="0.23423754822075846" green="0.37184068418669652" blue="0.52030456852791884" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                        <state key="normal" title="Войти (простой переход)">
+                                            <color key="titleColor" systemColor="systemBackgroundColor"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="5"/>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="tapToNextView:" destination="BYZ-38-t0r" eventType="touchUpInside" id="ogY-5m-RP7"/>
+                                            <segue destination="1gZ-MB-4XN" kind="show" id="hBQ-ak-lje"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aGI-si-k8W">
+                                        <rect key="frame" x="0.0" y="286" width="354" height="34"/>
+                                        <color key="backgroundColor" red="0.23423754820000001" green="0.37184068419999999" blue="0.52030456849999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                        <state key="normal" title="Войти (с помощью storyboard ID)">
+                                            <color key="titleColor" systemColor="systemBackgroundColor"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="5"/>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="tapToNextView:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Msa-gH-I6w"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Wmb-eg-P0f">
+                                        <rect key="frame" x="0.0" y="327" width="354" height="34"/>
+                                        <color key="backgroundColor" red="0.23423754820000001" green="0.37184068419999999" blue="0.52030456849999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                                        <state key="normal" title="Войти (переход через идентификатор)">
+                                            <color key="titleColor" systemColor="systemBackgroundColor"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="5"/>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="go404:" destination="BYZ-38-t0r" eventType="touchUpInside" id="tag-z2-drX"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstItem="wzE-BM-5yn" firstAttribute="leading" secondItem="Ppr-H5-0fw" secondAttribute="leading" id="91H-5a-cQw"/>
+                                    <constraint firstAttribute="trailing" secondItem="wzE-BM-5yn" secondAttribute="trailing" id="bzi-L4-KtC"/>
+                                </constraints>
+                            </stackView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" red="0.29580670599999997" green="0.46289479729999999" blue="0.6455232501" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Ppr-H5-0fw" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="74e-nz-nao"/>
+                            <constraint firstItem="Ppr-H5-0fw" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="bW1-bx-fWJ"/>
+                            <constraint firstItem="Ppr-H5-0fw" firstAttribute="centerY" secondItem="6Tk-OE-BBY" secondAttribute="centerY" id="hlV-UK-xZ6"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Ppr-H5-0fw" secondAttribute="trailing" constant="30" id="hnm-wg-NN8"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <segue destination="1gZ-MB-4XN" kind="show" identifier="go404" id="m4B-Nc-Lqq"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="135.9375"/>
+        </scene>
+        <!--New View Controller-->
+        <scene sceneID="aYi-iV-roa">
+            <objects>
+                <viewController storyboardIdentifier="404" id="1gZ-MB-4XN" customClass="NewViewController" customModule="_l_ZudilovIlya" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="hhi-sj-SBi">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="404.gif" translatesAutoresizingMaskIntoConstraints="NO" id="s18-MW-SWe">
+                                <rect key="frame" x="0.0" y="70" width="414" height="600"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="414" id="mOe-Q5-Fji"/>
+                                    <constraint firstAttribute="height" constant="347" id="uwI-DF-IJ0"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xKe-Lw-j7S">
+                                <rect key="frame" x="92.5" y="690" width="229" height="36"/>
+                                <color key="backgroundColor" red="0.0" green="0.174238801" blue="0.25369060040000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="36" id="75d-KK-IvM"/>
+                                    <constraint firstAttribute="width" constant="229" id="mDs-ZA-JvG"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                                <state key="normal" title="Назад">
+                                    <color key="titleColor" systemColor="systemBackgroundColor"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="layer.cornerRadius" value="5"/>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="goBack:" destination="1gZ-MB-4XN" eventType="touchUpInside" id="dsu-bJ-tQV"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="pEU-zm-2JH"/>
+                        <color key="backgroundColor" red="0.94109410049999997" green="0.94122928380000004" blue="0.9410645366" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="xKe-Lw-j7S" firstAttribute="centerX" secondItem="hhi-sj-SBi" secondAttribute="centerX" id="J1w-xd-qoz"/>
+                            <constraint firstItem="s18-MW-SWe" firstAttribute="centerX" secondItem="hhi-sj-SBi" secondAttribute="centerX" id="Khz-UP-NQX"/>
+                            <constraint firstItem="pEU-zm-2JH" firstAttribute="bottom" secondItem="xKe-Lw-j7S" secondAttribute="bottom" constant="120" id="NR3-yT-Xiu"/>
+                            <constraint firstItem="xKe-Lw-j7S" firstAttribute="top" secondItem="s18-MW-SWe" secondAttribute="bottom" constant="20" id="gkE-Fa-KuK"/>
+                            <constraint firstItem="xKe-Lw-j7S" firstAttribute="top" secondItem="s18-MW-SWe" secondAttribute="bottom" constant="20" id="svv-HZ-2dk"/>
+                            <constraint firstItem="s18-MW-SWe" firstAttribute="top" secondItem="pEU-zm-2JH" secondAttribute="top" constant="70" id="vu5-WE-HCd"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="cQm-Pm-HKE"/>
+                    <connections>
+                        <outlet property="gif" destination="s18-MW-SWe" id="fgv-kn-YET"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="EnO-O1-64C" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="831.88405797101461" y="135.9375"/>
+        </scene>
+    </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="hBQ-ak-lje"/>
+    </inferredMetricsTieBreakers>
+    <resources>
+        <image name="404.gif" width="800" height="600"/>
+        <image name="вк.png" width="250" height="58"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
