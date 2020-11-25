@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53A5A9B6-E101-406B-9131-B6C443C687B8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8569442F-4689-4204-95F1-8AE73B8C306D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "GroupViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - bdeba9e2e4bc8500"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.__deallocating_deinit"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - 553c91dd4906bd5a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.__allocating_init(style: __C.UITableViewStyle) -&gt; _l_ZudilovIlya.GroupViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - d867d4d92a9314a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.init(style: __C.UITableViewStyle) -&gt; _l_ZudilovIlya.GroupViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "119">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - 7c0e88e0ed3562e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _l_ZudilovIlya.GroupViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - 17dfe37eaf04c66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _l_ZudilovIlya.GroupViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "386">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - 31f74961804a9ce6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_l_ZudilovIlya.GroupViewController&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "8569442F-4689-4204-95F1-8AE73B8C306D - eabffe22f46312be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_l_ZudilovIlya.GroupViewController&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "239">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE0B4F11-8327-4989-BAD1-ACBE59CD79AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "addGroup(segue:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCCA7EBF-83B9-458F-9148-D9C5B02534E0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "addGroup(segue:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BCCA7EBF-83B9-458F-9148-D9C5B02534E0 - 2884284d6eac7911"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.GroupViewController.addGroup(segue: __C.UIStoryboardSegue) -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "929">
+               </Location>
+               <Location
+                  uuid = "BCCA7EBF-83B9-458F-9148-D9C5B02534E0 - 361f6d36c637ac7f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (_l_ZudilovIlya.MyGroups) -&gt; Swift.Bool in _l_ZudilovIlya.GroupViewController.addGroup(segue: __C.UIStoryboardSegue) -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/2/Lesson-3/1l_ZudilovIlya/1l_ZudilovIlya/Group/MyGroup/GroupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "883C88B5-F4CB-478E-AC0E-17BDDBA3E400"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C12958F7-E30B-4D61-A6B0-73FC8E3EBBAA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5EB7260B-0BA9-4EA3-A2EF-1E1F17B6CF74"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/Model/User.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "User"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16289AAC-110A-4D9A-B64D-0F0605F13287"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/Group/MyGroup/GroupViewController(save).swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE94E62B-BF05-457C-AB8E-E10EFF08837A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "handleGesture(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0249E900-FEA9-4BFC-AC66-E80F405029CE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "handleGesture(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E78AE3D6-B837-4B4D-926A-A5FD84F54C45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "handleGesture(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A065058-67EB-403D-A7E2-2EC154C798F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/CustomControler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "CustomNavigationController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDF571CC-4FA0-4385-ACD0-2C84863F700A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/CustomControler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
