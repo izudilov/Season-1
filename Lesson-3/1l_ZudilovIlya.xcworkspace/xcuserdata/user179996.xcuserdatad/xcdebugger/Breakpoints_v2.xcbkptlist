@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3E5B5882-0587-4EF1-98BF-B408B4AA17FE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F23C5ECB-6F89-4EE4-A72F-5C46F7F83190"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "loadVKFriends(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9D2D64D-D5CA-4985-AB1E-A54D5C9A5716"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "loadVKFriends(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9D2D64D-D5CA-4985-AB1E-A54D5C9A5716 - 2d9a4906cf335393"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.APIFriends.getData(fields: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/API/APIFriends.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "1348">
+               </Location>
+               <Location
+                  uuid = "C9D2D64D-D5CA-4985-AB1E-A54D5C9A5716 - 9327a504d7312a51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _l_ZudilovIlya.APIFriends.getData(fields: Swift.Optional&lt;Swift.String&gt;) -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/API/APIFriends.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "143">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A66486D8-2C94-4456-ADBE-E3F67C218A2D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "loadVKFriends(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "28A9300E-7CF4-4304-93C9-8D4C5132AC35"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadVKFriends(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UserViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - a992696889c4d918"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.friendsFromVK.getter : Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "122">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - 4f61ee8e7166d12c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.friendsFromVK.setter : Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - 3836d22c185132c6"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.friendsFromVK.modify : Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - d348601b60ef82eb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.friendsFromVK.modify : Swift.Array&lt;_l_ZudilovIlya.UserVK&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - eba678dc67d0d6fb"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.init(style: __C.UITableViewStyle) -&gt; _l_ZudilovIlya.UserViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - c3bc477489afddb1"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; _l_ZudilovIlya.UserViewController"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  uuid = "08A6D65C-73F7-4B1F-BF42-191015B15181 - 359fa76c764f85f4"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;_l_ZudilovIlya.UserViewController&gt;"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "207">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F086864A-83B4-457C-9819-9735A81AF467"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA5CC3FF-EA25-45CE-8F96-91F6A61C9280"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "146"
+            endingLineNumber = "146"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA8FBE2E-76E9-4360-9C24-093378D7E509"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIFriends.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loadVKFriends(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDD79AAC-EFDA-4B66-8C95-B9515450E569"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIGroups.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "APIGroups"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7927E77-B722-475E-B94D-E922DEFE54F6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIGroups.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "APIGroups"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E3C34AF-774F-4106-A124-264212D015E6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIGroups.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "APIGroups"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3E3C34AF-774F-4106-A124-264212D015E6 - d8a8a05fd6a268b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.APIGroups.getData() -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/API/APIGroups.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1530">
+               </Location>
+               <Location
+                  uuid = "3E3C34AF-774F-4106-A124-264212D015E6 - c630d6dbf780e222"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in _l_ZudilovIlya.APIGroups.getData() -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/API/APIGroups.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50067DD4-0030-4231-BB51-F1D3D5FBA8CF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "198"
+            endingLineNumber = "198"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9527290-B5C9-4EB9-80FA-D725DC4570A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C9527290-B5C9-4EB9-80FA-D725DC4570A3 - 47967c1a3edc9fa5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "972">
+               </Location>
+               <Location
+                  uuid = "C9527290-B5C9-4EB9-80FA-D725DC4570A3 - a82b4bbb3797b161"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (_l_ZudilovIlya.UserVK) -&gt; Swift.Character in _l_ZudilovIlya.UserViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8FCD03E-8502-4318-BAB5-923528BCD30E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "UserViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "342AF8BA-5788-484A-96A0-E3E9B95F8C17"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "UserViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3608206-51AA-49BA-89BD-1706B7B442B1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "UserViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B3608206-51AA-49BA-89BD-1706B7B442B1 - ffc7cda9e331cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.(sort in _1E2F202067AE2C6C458F91D8457B25F2)(Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;) -&gt; (characters: Swift.Array&lt;Swift.Character&gt;, sortedFriends: Swift.Dictionary&lt;Swift.Character, Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;&gt;)"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "B3608206-51AA-49BA-89BD-1706B7B442B1 - 6f102ef70a32643c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (_l_ZudilovIlya.UserVK) -&gt; () in _l_ZudilovIlya.UserViewController.(sort in _1E2F202067AE2C6C458F91D8457B25F2)(Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;) -&gt; (characters: Swift.Array&lt;Swift.Character&gt;, sortedFriends: Swift.Dictionary&lt;Swift.Character, Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;&gt;)"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFBDBFA9-540D-418C-8F8D-3A98A85776E5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "UserViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "AFBDBFA9-540D-418C-8F8D-3A98A85776E5 - ffc7cda9e331cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_l_ZudilovIlya.UserViewController.(sort in _1E2F202067AE2C6C458F91D8457B25F2)(Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;) -&gt; (characters: Swift.Array&lt;Swift.Character&gt;, sortedFriends: Swift.Dictionary&lt;Swift.Character, Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;&gt;)"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "166">
+               </Location>
+               <Location
+                  uuid = "AFBDBFA9-540D-418C-8F8D-3A98A85776E5 - 6f102ef70a32643c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (_l_ZudilovIlya.UserVK) -&gt; () in _l_ZudilovIlya.UserViewController.(sort in _1E2F202067AE2C6C458F91D8457B25F2)(Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;) -&gt; (characters: Swift.Array&lt;Swift.Character&gt;, sortedFriends: Swift.Dictionary&lt;Swift.Character, Swift.Array&lt;_l_ZudilovIlya.UserVK&gt;&gt;)"
+                  moduleName = "1l_ZudilovIlya"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user179996/Desktop/3/Lesson-3/1l_ZudilovIlya/User/UserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "269">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA8A39B4-F57B-4812-B4AF-5A15AC647E43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "70"
+            endingLineNumber = "70"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2290B5D4-5C96-4738-8B5D-C71D88587C04"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/UserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "116"
+            endingLineNumber = "116"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E004F43-EF75-4B42-884F-B45E0C457D4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "loadVKPhotos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "869AF4DE-37CF-4BF4-89CC-0E3A7F307C6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadVKPhotos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "722FD22F-C493-4CB1-AF39-439FA31D5E24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "loadVKPhotos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "311E8F15-8FA9-41AA-BDF2-E1F6EC22FE2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "ScrollFotoViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C367290D-3331-4C91-BE61-8CD7C0A2997C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "ScrollFotoViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7C439028-0D2A-4A06-922A-2BC54E91C897"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/User/Collection/ScrollFotoViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "ScrollFotoViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D3841256-FBA0-4E88-A8B6-3161CA484003"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "1l_ZudilovIlya/API/APIPhotos.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "loadVKPhotos(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
